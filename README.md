@@ -1,6 +1,6 @@
-# `stm32f103rb-template`
+# `stm32f070rb-template`
 
-> A template for building applications for NUCLEO-F103RB development board.
+> A template for building applications for NUCLEO-F070RB development board.
 
 ## Dependencies
 
@@ -14,7 +14,7 @@
 
 ## Usage
 
-`cargo generate --git https://github.com/lukwol/stm32f103rb-template --name=app`
+`cargo generate --git https://github.com/lukwol/stm32f070rb-template --name=app`
 
 ## License
 
