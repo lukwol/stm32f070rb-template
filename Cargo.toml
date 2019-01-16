@@ -9,7 +9,7 @@ version = "0.1.0"
 cortex-m = "*"
 cortex-m-rt = "*"
 panic-halt = "*"
-stm32f0xx-hal = { version = "*", features = ["stm32f070xb"] }
+stm32f0xx-hal = { version = "*", features = ["stm32f070xb", "rt"] }
 
 # this lets you use `cargo fix`!
 [[bin]]
